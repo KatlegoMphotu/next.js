@@ -20,4 +20,4 @@ npm install bootstrap
 Include the following code in your src/index.jsx or App.js file of the  create-react-app package:
 import “bootstrap/dist/bootstrap.min.css”;
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Git clone https://github.com/KatlegoMphotu/next.js
+Git clone git@github.com:KatlegoMphotu/next.js.git
